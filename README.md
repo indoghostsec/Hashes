@@ -9,6 +9,7 @@
 
 # Preview
 
+![Screenshot_20200424_022349](https://user-images.githubusercontent.com/63348744/80141568-f009f700-85d3-11ea-8419-1b6d1aec7361.png)
 
 # How to install & Run
 
